@@ -202,6 +202,16 @@ mouse:usb:v093ap2510:name:PIXART USB OPTICAL MOUSE:
  MOUSE_DPI=1000@125
 
 ##########################################
+# Kensington
+##########################################
+
+# Kensington Expert Mouse (Model # K64325)
+mouse:usb:v047dp1020:name:Kensington      Kensington Expert Mouse:
+ ID_MOUSE_TRACKBALL=1
+ MOUSE_DPI=420@162
+ MOUSE_WHEEL_CLICK_ANGLE=9
+
+##########################################
 # Lenovo
 ##########################################
 
